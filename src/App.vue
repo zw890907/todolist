@@ -50,19 +50,19 @@ export default {
     return {
       todoLists: [
         {
-            id: 1,
-            name: '唱歌',
-            hasCompleted: true
+          id: 1,
+          name: '唱歌',
+          hasCompleted: true
         },
         {
-            id: 2,
-            name: '运动',
-            hasCompleted: false
+          id: 2,
+          name: '运动',
+          hasCompleted: false
         },
         {
-            id: 3,
-            name: '学习',
-            hasCompleted: true
+          id: 3,
+          name: '学习',
+          hasCompleted: true
         }
       ]
     }
